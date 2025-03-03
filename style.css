@@ -1,0 +1,45 @@
+span{
+    float : right;
+}
+h5{
+
+    margin : 2px;
+    text-align: center;
+    color: blue;
+    font-weight:200;
+}
+h3{
+
+    margin-top: 3px;
+    text-align: center;
+    color: blue;
+    
+}
+div{
+
+
+    height: 80px;
+}
+table{
+
+    width:80%;
+    background-color: yellow;
+    border-style: solid;
+    margin :2px;
+    padding: 2px;
+    font-size: 12px;
+    border-color: black;
+    
+}
+td{
+
+    border-style : solid;
+    border-color: black;
+    color:blue;
+}
+th{
+
+    border-style : solid;
+    border-color: black;
+    color:blue;
+}
